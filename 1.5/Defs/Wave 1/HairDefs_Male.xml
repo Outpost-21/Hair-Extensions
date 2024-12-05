@@ -8,6 +8,7 @@
 		<texPath>ExtendedHair/Male/CrewCut</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Soldier</li>
@@ -49,6 +50,7 @@
 		<texPath>ExtendedHair/Male/Combover</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Soldier</li>
@@ -91,6 +93,7 @@
 		<texPath>ExtendedHair/Male/Undercut</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Urban</li>
 			<li>Soldier</li>
 			<li>HairShort</li>
@@ -104,6 +107,7 @@
 		<texPath>ExtendedHair/Male/Price</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Soldier</li>
@@ -118,6 +122,7 @@
 		<texPath>ExtendedHair/Male/Soap</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Rural</li>
 			<li>Soldier</li>
 			<li>HairShort</li>
@@ -131,6 +136,7 @@
 		<texPath>ExtendedHair/Male/Casual</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Soldier</li>
@@ -158,6 +164,7 @@
 		<texPath>ExtendedHair/Male/Fancy</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Urban</li>
 			<li>Soldier</li>
 			<li>HairShort</li>
@@ -171,6 +178,7 @@
 		<texPath>ExtendedHair/Male/Wavy</texPath>
 		<category>Soldier</category>
 		<styleTags>
+			<li>Ultra</li>
 			<li>Urban</li>
             <li>Rural</li>
 			<li>Soldier</li>
