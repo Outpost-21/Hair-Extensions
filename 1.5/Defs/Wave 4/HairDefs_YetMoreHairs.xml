@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<HairDef>
+		<defName>HairExt_Gina</defName>
+		<label>Gina</label>
+		<styleGender>Female</styleGender>
+		<texPath>ExtendedHair/YetMoreHairs/Gina</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>HairExt_Goro</defName>
+		<label>Goro</label>
+		<styleGender>Male</styleGender>
+		<texPath>ExtendedHair/YetMoreHairs/Goro</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>HairExt_Lady</defName>
+		<label>Lady</label>
+		<styleGender>Female</styleGender>
+		<texPath>ExtendedHair/YetMoreHairs/Lady</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>HairExt_Pike</defName>
+		<label>Pike</label>
+		<styleGender>Male</styleGender>
+		<texPath>ExtendedHair/YetMoreHairs/Pike</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>HairExt_Sidecurl</defName>
+		<label>Sidecurl</label>
+		<styleGender>Female</styleGender>
+		<texPath>ExtendedHair/YetMoreHairs/Sidecurl</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>HairExt_Silverhand</defName>
+		<label>Silverhand</label>
+		<styleGender>Male</styleGender>
+		<texPath>ExtendedHair/YetMoreHairs/Silverhand</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairLong</li>
+		</styleTags>
+	</HairDef>
+
+</Defs>
