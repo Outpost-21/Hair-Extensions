@@ -118,4 +118,17 @@
 		</styleTags>
 	</HairDef>
 
+	<HairDef>
+		<defName>HairExt_Parabangs</defName>
+		<label>Parabangs</label>
+		<styleGender>Female</styleGender>
+		<texPath>ExtendedHair/YetMoreHairs/Parabangs</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Ultra</li>
+			<li>Urban</li>
+			<li>HairLong</li>
+		</styleTags>
+	</HairDef>
+
 </Defs>

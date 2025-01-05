@@ -38,10 +38,10 @@
 		</styleTags>
 	</HairDef>
 
-    <!-- <HairDef>
+    <HairDef>
 		<defName>HairExt_TOH_Luz</defName>
 		<label>Luz (TOH)</label>
-		<styleGender>Male</styleGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/TheOwlHouse/Luz</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -67,7 +67,7 @@
     <HairDef>
 		<defName>HairExt_TOH_Amity</defName>
 		<label>Amity (TOH)</label>
-		<styleGender>Male</styleGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/TheOwlHouse/Amity</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -77,7 +77,7 @@
 		</styleTags>
 	</HairDef>
 
-    <HairDef>
+    <!-- <HairDef>
 		<defName>HairExt_TOH_Azura</defName>
 		<label>Azura (TOH)</label>
 		<styleGender>Male</styleGender>
