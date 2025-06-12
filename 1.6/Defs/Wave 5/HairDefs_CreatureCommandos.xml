@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<HairDef>
+		<defName>HairExt_Ilana</defName>
+		<label>Ilana</label>
+		<styleGender>Female</styleGender>
+		<texPath>ExtendedHair/CreatureCommandos/Ilana</texPath>
+		<category>Soldier</category>
+		<styleTags>
+			<li>Ultra</li>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+</Defs>
